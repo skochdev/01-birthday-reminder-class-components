@@ -1,0 +1,24 @@
+.ClearButton {
+  display: block;
+  padding: 15px 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  border: none;
+  border-radius: 100vw;
+  background-color: var(--body-bgc);
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.projectDescription {
+  text-align: center;
+  font-size: 16px;
+}
+
+.section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
